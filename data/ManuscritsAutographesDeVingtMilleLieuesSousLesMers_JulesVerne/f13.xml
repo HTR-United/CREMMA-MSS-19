@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1737" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1738" LABEL="IllustrationZone" DESCRIPTION="block type IllustrationZone"/><OtherTag ID="BT1739" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1740" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
-    <OtherTag ID="LT586" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT586" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT589" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
   <Layout>
@@ -561,7 +561,7 @@
           
           
           <TextLine ID="eSc_line_e08b5658"
-                    TAGREFS="LT586"
+                    TAGREFS="LT589"
                     BASELINE="1779 2952 1880 2937" 
                     HPOS="1763"
                     VPOS="2886"
@@ -595,7 +595,7 @@
           
           
           <TextLine ID="eSc_line_a2880762"
-                    TAGREFS="LT586"
+                    TAGREFS="LT589"
                     BASELINE="1449 3047 1665 3051" 
                     HPOS="1441"
                     VPOS="2983"
