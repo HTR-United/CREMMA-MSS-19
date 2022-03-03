@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f615.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1743" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1745" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1792" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT1793" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT1794" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/>
+    <OtherTag ID="LT613" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT614" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2482"
+          HEIGHT="3314"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2482"
+                  HEIGHT="3314">
+        
+        <TextBlock HPOS="75"
+                   VPOS="218"
+                   WIDTH="2321"
+                   HEIGHT="934"
+                   ID="eSc_textblock_9b20db03"
+                   TAGREFS="BT1745">
+          <Shape><Polygon POINTS="2379 1152 2396 287 1822 218 75 234 75 1152"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3b4aa88a"
+                    TAGREFS="LT613"
+                    BASELINE="444 359 1238 386 1807 367 2385 370" 
+                    HPOS="436"
+                    VPOS="238"
+                    WIDTH="1946"
+                    HEIGHT="233">
+            <Shape><Polygon POINTS="442 356 436 309 472 292 475 292 456 239 612 238 713 256 715 256 718 256 845 262 848 262 928 301 956 292 959 292 961 292 964 292 992 301 1033 312 1094 301 1097 301 1304 314 1334 295 1354 281 1357 281 1359 281 1362 281 1365 281 1368 281 1384 295 1393 298 1438 295 1456 292 1459 292 1462 292 1464 292 1468 269 1486 314 1522 301 1525 301 1528 301 1531 301 1558 312 1605 292 1641 276 1644 276 1647 276 1650 276 1652 276 1674 289 1697 303 1735 289 1804 265 1807 265 1810 265 2037 276 2039 276 2061 284 2144 323 2180 292 2183 292 2186 292 2189 292 2260 303 2288 281 2291 278 2294 278 2296 278 2299 278 2379 281 2382 367 2379 386 2208 405 2205 405 2202 405 2155 386 2147 381 1774 378 1766 383 1716 408 1713 408 1710 408 1542 389 1486 414 1484 414 1484 417 1279 417 1276 414 1274 414 1156 471 1232 389 906 408 903 408 901 408 798 378 754 400 751 400 749 400 746 400 710 389 616 405 613 405 610 405 608 405 569 378 439 370"/></Shape>
+	    <String CONTENT="La scarpe, près de Marchien"
+                    HPOS="436"
+                    VPOS="238"
+                    WIDTH="1946"
+                    HEIGHT="233"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b022b228"
+                    TAGREFS="LT613"
+                    BASELINE="129 517 1166 577 1708 566 2374 585" 
+                    HPOS="127"
+                    VPOS="398"
+                    WIDTH="2244"
+                    HEIGHT="231">
+            <Shape><Polygon POINTS="127 516 129 411 265 428 268 428 270 428 306 461 359 461 488 411 596 398 577 455 580 455 599 472 807 481 948 450 1025 436 1028 436 1030 436 1066 455 1113 483 1149 461 1152 458 1155 458 1158 458 1160 458 1163 458 1171 461 1252 494 1307 469 1346 450 1348 450 1351 450 1401 450 1741 463 1887 497 1965 513 2056 505 2205 491 2208 491 2211 491 2255 516 2285 530 2365 521 2371 582 2363 629 2310 610 2258 624 2255 624 2252 624 2249 624 2247 624 2213 602 2045 599 2014 615 2003 624 2001 624 1998 624 1998 626 1926 626 1923 624 1920 624 1918 624 1898 610 1876 596 1826 607 1777 618 1774 618 1771 618 1730 604 1685 585 1547 579 1467 582 1453 593 1437 604 1434 604 1431 604 1428 604 1426 604 1393 590 1387 588 1381 588 1337 602 1334 602 1332 602 878 585 876 585 796 566 773 560 757 563 693 577 690 577 688 577 632 557 608 549 591 557 563 568 561 568 558 568 480 552 420 538 127 538"/></Shape>
+	    <String CONTENT="aie. Le canal de la Scarpe, cana-"
+                    HPOS="127"
+                    VPOS="398"
+                    WIDTH="2244"
+                    HEIGHT="231"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e768ba95"
+                    TAGREFS="LT613"
+                    BASELINE="147 680 1053 726 1437 753 1851 745 2233 767" 
+                    HPOS="143"
+                    VPOS="571"
+                    WIDTH="2087"
+                    HEIGHT="234">
+            <Shape><Polygon POINTS="146 679 149 571 257 574 259 574 268 577 454 646 632 629 635 629 638 629 641 629 685 657 760 657 862 610 881 602 884 602 887 602 889 602 892 602 912 613 928 624 959 615 992 607 995 607 997 607 1000 607 1003 607 1019 618 1061 651 1177 657 1180 657 1182 657 1205 676 1260 654 1263 654 1265 654 1268 654 1271 654 1340 618 1522 690 1580 651 1603 635 1605 635 1608 635 1611 635 1658 635 1777 654 1907 646 1909 646 1912 646 1915 646 1915 648 1943 673 1982 640 2009 695 2012 695 2014 695 2017 695 2020 695 2042 715 2091 627 2199 622 2188 662 2187 666 2136 698 2230 690 2230 764 2224 784 2144 781 2142 781 2125 795 2122 795 2119 795 2117 795 2114 795 2111 795 2092 781 2092 778 2086 778 2012 800 2009 800 2006 800 2003 800 2001 800 1970 776 1965 773 1940 773 1813 781 1810 781 1807 781 1804 781 1785 767 1777 762 1586 756 1569 759 1467 778 1464 778 1340 773 1337 773 1293 751 1210 767 1207 767 1205 767 1124 742 1086 762 1083 762 1080 762 1077 762 1014 734 1008 734 1006 734 953 753 950 753 948 753 699 745 547 715 505 709 431 805 254 726 251 726 143 698"/></Shape>
+	    <String CONTENT="bièe, va de Donai à Conde ! La"
+                    HPOS="143"
+                    VPOS="571"
+                    WIDTH="2087"
+                    HEIGHT="234"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a90d119b"
+                    TAGREFS="LT613"
+                    BASELINE="168 889 704 897 1346 933 1995 933 2359 992" 
+                    HPOS="163"
+                    VPOS="773"
+                    WIDTH="2200"
+                    HEIGHT="235">
+            <Shape><Polygon POINTS="165 886 168 798 234 817 339 809 342 809 345 809 348 809 370 825 519 805 619 809 660 781 663 781 666 781 668 781 751 784 754 784 823 811 848 822 887 814 956 798 959 798 961 798 964 798 986 817 1028 845 1122 834 1124 834 1127 834 1174 856 1268 836 1271 836 1274 836 1276 836 1321 864 1484 867 1569 831 1572 831 1575 831 1578 831 1664 773 1797 808 1817 821 1806 817 1818 821 1839 821 1832 872 1926 839 1943 834 1945 834 1948 834 1981 839 2083 861 2122 842 2130 839 2133 839 2171 804 2363 850 2357 991 2354 1008 2006 955 1639 944 1406 969 1401 969 1398 969 1395 969 1393 969 1287 941 1196 961 1191 961 1188 961 1185 961 1182 961 1163 944 936 950 901 950 898 950 873 947 652 916 527 916 494 930 489 933 486 933 483 933 480 933 475 930 433 911 353 919 351 919 348 919 298 897 163 916"/></Shape>
+	    <String CONTENT="vie à Marchiennes est à meilleur"
+                    HPOS="163"
+                    VPOS="773"
+                    WIDTH="2200"
+                    HEIGHT="235"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_75ab34d4"
+                    TAGREFS="LT613"
+                    BASELINE="187 1046 370 1054 543 1069 645 1099" 
+                    HPOS="155"
+                    VPOS="958"
+                    WIDTH="497"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="185 1043 155 967 292 985 298 985 400 958 403 958 406 958 489 966 491 966 494 966 549 971 586 977 652 1035 643 1096 638 1115 469 1104 467 1104 464 1104 458 1101 425 1079 328 1071 182 1074"/></Shape>
+	    <String CONTENT="marchè."
+                    HPOS="155"
+                    VPOS="958"
+                    WIDTH="497"
+                    HEIGHT="157"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1827"
+                   VPOS="66"
+                   WIDTH="548"
+                   HEIGHT="219"
+                   ID="eSc_textblock_6ee24d64"
+                   TAGREFS="BT1794">
+          <Shape><Polygon POINTS="1827 66 1827 199 2150 248 2298 285 2375 199 2375 66"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_03824286"
+                    TAGREFS="LT613"
+                    BASELINE="1857 198 2037 187" 
+                    HPOS="1846"
+                    VPOS="107"
+                    WIDTH="191"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1857 198 1846 129 1898 107 1898 107 1901 107 1901 107 1901 107 1904 107 1904 107 1907 107 1940 115 1959 121 2025 107 2037 187 2034 212 1854 207"/></Shape>
+	    <String CONTENT="303"
+                    HPOS="1846"
+                    VPOS="107"
+                    WIDTH="191"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0acb04e1"
+                    TAGREFS="LT613"
+                    BASELINE="2189 230 2295 265" 
+                    HPOS="2169"
+                    VPOS="107"
+                    WIDTH="149"
+                    HEIGHT="213">
+            <Shape><Polygon POINTS="2186 229 2222 107 2277 157 2318 165 2294 262 2271 320 2169 267"/></Shape>
+	    <String CONTENT="97"
+                    HPOS="2169"
+                    VPOS="107"
+                    WIDTH="149"
+                    HEIGHT="213"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
