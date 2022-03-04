@@ -351,26 +351,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="2434"
-                   VPOS="1061"
-                   WIDTH="8"
-                   HEIGHT="30"
-                   ID="eSc_textblock_dd6642d6"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="2442 1061 2442 1091 2434 1091 2434 1061"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="2434"
-                   VPOS="1525"
-                   WIDTH="8"
-                   HEIGHT="97"
-                   ID="eSc_textblock_9708d509"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="2442 1525 2442 1622 2434 1622 2434 1525"/></Shape>
-          
-        </TextBlock>
-        
 
         
       </PrintSpace>
