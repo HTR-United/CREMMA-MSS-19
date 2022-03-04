@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1751" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1749" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1748" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1747" LABEL="DropCapitalLine" DESCRIPTION="block type DropCapitalLine"/><OtherTag ID="BT1746" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/>
-    <OtherTag ID="LT587" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT587" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT681" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
   <Layout>
@@ -35,7 +35,7 @@
           
           
           <TextLine ID="eSc_line_9036471b"
-                    
+                    TAGREFS="LT587"
                     BASELINE="3542 2302 3546 2302 3593 2295 3624 2287 4710 2221" 
                     HPOS="3531"
                     VPOS="2146"
@@ -62,7 +62,7 @@
           
           
           <TextLine ID="eSc_line_9ded4956"
-                    
+                    TAGREFS="LT681"
                     BASELINE="5443 2282 5499 2287 5542 2287" 
                     HPOS="5436"
                     VPOS="2223"
@@ -79,14 +79,14 @@
           
           
           <TextLine ID="eSc_line_e5db2eb8"
-                    
+                    TAGREFS="LT587"
                     BASELINE="5093 2691 5092 2692 5093 2691 5196 2687 5241 2687 5890 2651 6405 2638" 
                     HPOS="5078"
                     VPOS="2569"
                     WIDTH="1323"
                     HEIGHT="142">
             <Shape><Polygon POINTS="5089 2688 5078 2634 5166 2600 5166 2600 5170 2600 5170 2600 5170 2600 5174 2600 5428 2615 5536 2584 5540 2584 5540 2584 5540 2584 5543 2584 5813 2596 5867 2569 5867 2569 5867 2569 5870 2569 5870 2569 5874 2569 6394 2577 6401 2634 6401 2654 5089 2711"/></Shape>
-	    <String CONTENT="Les Portes m&#39;attirèrent d&#39;&lt;&gt; un autre côté"
+	    <String CONTENT="Les Portes m&#39;attirèrent d&#39;&gt;&lt; un autre côté"
                     HPOS="5078"
                     VPOS="2569"
                     WIDTH="1323"
@@ -96,7 +96,7 @@
           
           
           <TextLine ID="eSc_line_3ed945e1"
-                    
+                    TAGREFS="LT681"
                     BASELINE="5752 2700 5896 2699" 
                     HPOS="5747"
                     VPOS="2642"
@@ -113,18 +113,18 @@
           
           
           <TextLine ID="eSc_line_b40e7c96"
-                    
+                    TAGREFS="LT681"
                     BASELINE="6076 3935 6084 3926 6121 3928 6241 3915" 
                     HPOS="6047"
-                    VPOS="3881"
-                    WIDTH="200"
-                    HEIGHT="104">
-            <Shape><Polygon POINTS="6074 3931 6047 3896 6228 3881 6240 3912 6247 3981 6078 3985"/></Shape>
+                    VPOS="3884"
+                    WIDTH="203"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="6074 3931 6047 3896 6225 3884 6240 3912 6250 3936 6086 3956"/></Shape>
 	    <String CONTENT=""
                     HPOS="6047"
-                    VPOS="3881"
-                    WIDTH="200"
-                    HEIGHT="104"></String>
+                    VPOS="3884"
+                    WIDTH="203"
+                    HEIGHT="72"></String>
           </TextLine>
 
           
