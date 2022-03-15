@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1751" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1749" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1748" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1747" LABEL="DropCapitalLine" DESCRIPTION="block type DropCapitalLine"/><OtherTag ID="BT1746" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/>
-    <OtherTag ID="LT587" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT681" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+    <OtherTag ID="LT681" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT587" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>

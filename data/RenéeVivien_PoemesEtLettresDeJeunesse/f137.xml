@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1751" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1749" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1748" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1747" LABEL="DropCapitalLine" DESCRIPTION="block type DropCapitalLine"/><OtherTag ID="BT1746" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/>
-    <OtherTag ID="LT587" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT681" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+    <OtherTag ID="LT681" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT587" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -120,7 +120,7 @@
                     WIDTH="203"
                     HEIGHT="72">
             <Shape><Polygon POINTS="6074 3931 6047 3896 6225 3884 6240 3912 6250 3936 6086 3956"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="[?]"
                     HPOS="6047"
                     VPOS="3884"
                     WIDTH="203"
@@ -133,10 +133,27 @@
         <TextBlock HPOS="6364"
                    VPOS="1995"
                    WIDTH="152"
-                   HEIGHT="124"
+                   HEIGHT="129"
                    ID="eSc_textblock_fef08bd8"
                    TAGREFS="BT1749">
-          <Shape><Polygon POINTS="6364 1995 6364 2119 6516 2119 6516 1995"/></Shape>
+          <Shape><Polygon POINTS="6364 1995 6364 2119 6516 2124 6516 1995"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_398a5443"
+                    TAGREFS="LT587"
+                    BASELINE="6382 2092 6490 2084" 
+                    HPOS="6363"
+                    VPOS="1919"
+                    WIDTH="123"
+                    HEIGHT="200">
+            <Shape><Polygon POINTS="6378 2088 6363 1942 6467 1919 6486 2081 6482 2119 6374 2107"/></Shape>
+	    <String CONTENT="95"
+                    HPOS="6363"
+                    VPOS="1919"
+                    WIDTH="123"
+                    HEIGHT="200"></String>
+          </TextLine>
+
           
         </TextBlock>
         
