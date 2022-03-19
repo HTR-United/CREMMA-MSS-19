@@ -13,7 +13,7 @@ authors:
   roles:
   - project-manager
   - quality-control
-description: 'Manuscripts of the 19th century'
+description: Manuscripts of the 19th century
 language:
 - fra
 script:
@@ -31,7 +31,7 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 9331
+  count: 9340
 - metric: files
   count: 10
 - metric: lines
