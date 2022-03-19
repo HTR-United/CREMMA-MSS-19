@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>01R_P1S8P1_008.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2432" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT2431" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2411" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2410" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT847" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT848" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1243"
+          HEIGHT="1500"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1243"
+                  HEIGHT="1500">
+        
+        <TextBlock HPOS="351"
+                   VPOS="79"
+                   WIDTH="558"
+                   HEIGHT="349"
+                   ID="eSc_textblock_b572a1c1"
+                   TAGREFS="BT2432">
+          <Shape><Polygon POINTS="351 79 358 428 905 415 909 81"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
