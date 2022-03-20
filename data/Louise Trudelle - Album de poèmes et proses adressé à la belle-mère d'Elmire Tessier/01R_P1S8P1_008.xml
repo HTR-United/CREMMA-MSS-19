@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2432" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT2431" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2411" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2410" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT2455" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT2454" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2432" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT2431" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2411" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2410" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT847" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT848" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
@@ -30,7 +30,7 @@
                    WIDTH="558"
                    HEIGHT="349"
                    ID="eSc_textblock_b572a1c1"
-                   TAGREFS="BT2432">
+                   TAGREFS="BT2455">
           <Shape><Polygon POINTS="351 79 358 428 905 415 909 81"/></Shape>
           
         </TextBlock>
