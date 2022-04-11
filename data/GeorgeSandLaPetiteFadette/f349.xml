@@ -34,14 +34,31 @@
           <Shape><Polygon POINTS="281 139 281 288 398 240 503 145"/></Shape>
           
           
+          <TextLine ID="eSc_line_4fa868a3"
+                    TAGREFS="LT898"
+                    BASELINE="301 202 359 199" 
+                    HPOS="292"
+                    VPOS="96"
+                    WIDTH="66"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="299 200 292 96 351 101 358 197 356 219 296 215"/></Shape>
+	    <String CONTENT="86"
+                    HPOS="292"
+                    VPOS="96"
+                    WIDTH="66"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_7b4769b0"
-                    
+                    TAGREFS="LT898"
                     BASELINE="307 272 467 172" 
                     HPOS="279"
                     VPOS="131"
                     WIDTH="193"
                     HEIGHT="145">
-            <Shape><Polygon POINTS="305 270 279 230 332 200 332 197 340 171 340 171 340 171 340 169 340 169 343 169 343 169 343 167 343 167 345 167 345 167 439 131 466 171 472 184 307 276"/></Shape>
+            <Shape><Polygon POINTS="305 270 279 230 332 200 332 197 340 171 340 169 343 169 343 167 345 167 439 131 466 171 472 184 307 276"/></Shape>
 	    <String CONTENT="en ligne"
                     HPOS="279"
                     VPOS="131"
@@ -59,23 +76,6 @@
                    ID="eSc_textblock_eb622206"
                    TAGREFS="BT2528">
           <Shape><Polygon POINTS="1860 131 1869 2328 1112 2424 431 2451 387 1800 387 553 334 534 334 492 378 481 378 395 343 298 325 279 399 243 470 200 527 193 701 202 1695 123"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_4fa868a3"
-                    TAGREFS="LT898"
-                    BASELINE="301 202 359 199" 
-                    HPOS="292"
-                    VPOS="96"
-                    WIDTH="66"
-                    HEIGHT="123">
-            <Shape><Polygon POINTS="299 200 292 96 351 101 358 197 356 219 296 215"/></Shape>
-	    <String CONTENT="86"
-                    HPOS="292"
-                    VPOS="96"
-                    WIDTH="66"
-                    HEIGHT="123"></String>
-          </TextLine>
-
           
           
           <TextLine ID="eSc_line_8e1cbca0"
@@ -147,7 +147,7 @@
           
           
           <TextLine ID="eSc_line_72a42e4e"
-                    
+                    TAGREFS="LT898"
                     BASELINE="336 527 807 510 1598 437 1849 426" 
                     HPOS="332"
                     VPOS="378"
