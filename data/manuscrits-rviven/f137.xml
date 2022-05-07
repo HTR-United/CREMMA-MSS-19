@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f137.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1751" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1749" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1748" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1747" LABEL="DropCapitalLine" DESCRIPTION="block type DropCapitalLine"/><OtherTag ID="BT1746" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/>
+    <OtherTag ID="LT681" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT587" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7279"
+          HEIGHT="4616"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7279"
+                  HEIGHT="4616">
+        
+        <TextBlock HPOS="3501"
+                   VPOS="2026"
+                   WIDTH="1643"
+                   HEIGHT="2362"
+                   ID="eSc_textblock_5cc4c601"
+                   TAGREFS="BT1748">
+          <Shape><Polygon POINTS="3501 2066 3501 4388 5065 4388 5042 3778 5130 3766 5144 3635 5055 3592 5040 2539 5039 2455 5033 2026"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9036471b"
+                    TAGREFS="LT587"
+                    BASELINE="3542 2302 3546 2302 3593 2295 3624 2287 4710 2221" 
+                    HPOS="3531"
+                    VPOS="2146"
+                    WIDTH="1178"
+                    HEIGHT="173">
+            <Shape><Polygon POINTS="3539 2300 3531 2231 4162 2196 4181 2181 4224 2154 4228 2154 4231 2154 4697 2146 4709 2219 4705 2242 3539 2319"/></Shape>
+	    <String CONTENT="Celui-ci est Homère, Poète souverain,"
+                    HPOS="3531"
+                    VPOS="2146"
+                    WIDTH="1178"
+                    HEIGHT="173"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5051"
+                   VPOS="2023"
+                   WIDTH="1541"
+                   HEIGHT="2355"
+                   ID="eSc_textblock_4d83d450"
+                   TAGREFS="BT1748">
+          <Shape><Polygon POINTS="5051 4378 5102 4250 5091 3843 5116 3755 5156 3631 5090 3600 5061 2033 6312 2023 6318 2090 6495 2113 6425 2432 6547 2543 6357 2766 6330 3052 6479 3084 6520 3342 6501 3658 6364 3665 6361 3852 6541 3940 6592 4373"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9ded4956"
+                    TAGREFS="LT681"
+                    BASELINE="5443 2282 5499 2287 5542 2287" 
+                    HPOS="5436"
+                    VPOS="2223"
+                    WIDTH="104"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="5440 2281 5436 2227 5536 2223 5540 2284 5536 2296 5436 2300"/></Shape>
+	    <String CONTENT="une"
+                    HPOS="5436"
+                    VPOS="2223"
+                    WIDTH="104"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e5db2eb8"
+                    TAGREFS="LT587"
+                    BASELINE="5093 2691 5092 2692 5093 2691 5196 2687 5241 2687 5890 2651 6405 2638" 
+                    HPOS="5078"
+                    VPOS="2569"
+                    WIDTH="1323"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="5089 2688 5078 2634 5166 2600 5166 2600 5170 2600 5170 2600 5170 2600 5174 2600 5428 2615 5536 2584 5540 2584 5540 2584 5540 2584 5543 2584 5813 2596 5867 2569 5867 2569 5867 2569 5870 2569 5870 2569 5874 2569 6394 2577 6401 2634 6401 2654 5089 2711"/></Shape>
+	    <String CONTENT="Les Portes m&#39;attirèrent d&#39;&gt;&lt; un autre côté"
+                    HPOS="5078"
+                    VPOS="2569"
+                    WIDTH="1323"
+                    HEIGHT="142"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ed945e1"
+                    TAGREFS="LT681"
+                    BASELINE="5752 2700 5896 2699" 
+                    HPOS="5747"
+                    VPOS="2642"
+                    WIDTH="146"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="5751 2696 5747 2646 5890 2642 5893 2696 5890 2738 5747 2731"/></Shape>
+	    <String CONTENT="élevé"
+                    HPOS="5747"
+                    VPOS="2642"
+                    WIDTH="146"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b40e7c96"
+                    TAGREFS="LT681"
+                    BASELINE="6076 3935 6084 3926 6121 3928 6241 3915" 
+                    HPOS="6047"
+                    VPOS="3884"
+                    WIDTH="203"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="6074 3931 6047 3896 6225 3884 6240 3912 6250 3936 6086 3956"/></Shape>
+	    <String CONTENT="avaient"
+                    HPOS="6047"
+                    VPOS="3884"
+                    WIDTH="203"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="6364"
+                   VPOS="1995"
+                   WIDTH="152"
+                   HEIGHT="129"
+                   ID="eSc_textblock_fef08bd8"
+                   TAGREFS="BT1749">
+          <Shape><Polygon POINTS="6364 1995 6364 2119 6516 2124 6516 1995"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_398a5443"
+                    TAGREFS="LT587"
+                    BASELINE="6382 2092 6490 2084" 
+                    HPOS="6363"
+                    VPOS="1919"
+                    WIDTH="123"
+                    HEIGHT="200">
+            <Shape><Polygon POINTS="6378 2088 6363 1942 6467 1919 6486 2081 6482 2119 6374 2107"/></Shape>
+	    <String CONTENT="95"
+                    HPOS="6363"
+                    VPOS="1919"
+                    WIDTH="123"
+                    HEIGHT="200"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
