@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2459" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2457" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT2456" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT3429" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2459" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2457" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT2456" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT866" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -24,6 +24,50 @@
                   VPOS="0"
                   WIDTH="1001"
                   HEIGHT="1500">
+        
+        <TextBlock HPOS="40"
+                   VPOS="35"
+                   WIDTH="469"
+                   HEIGHT="243"
+                   ID="eSc_textblock_b78a589d"
+                   TAGREFS="BT2456">
+          <Shape><Polygon POINTS="424 45 424 123 489 140 509 208 424 268 100 278 40 208 40 165 110 118 120 45 190 35"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5e90f2e6"
+                    
+                    BASELINE="120 93 401 88" 
+                    HPOS="117"
+                    VPOS="36"
+                    WIDTH="284"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="120 93 117 60 150 58 150 57 167 43 167 43 168 43 168 43 168 43 170 43 198 38 198 38 200 38 200 38 200 38 201 38 201 38 202 38 202 38 202 40 220 53 221 56 225 53 261 36 261 36 261 36 262 36 262 36 264 36 301 36 301 36 301 36 302 36 302 36 302 36 304 36 319 47 347 41 347 41 347 41 349 41 349 41 349 41 350 41 350 41 350 41 351 41 359 47 365 51 372 46 385 38 386 38 386 38 387 38 387 38 387 38 389 38 389 38 390 38 390 38 390 38 391 38 401 45 401 88 401 92 120 103"/></Shape>
+	    <String CONTENT="Août 96"
+                    HPOS="117"
+                    VPOS="36"
+                    WIDTH="284"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ead2d2ca"
+                    
+                    BASELINE="58 200 270 192 501 198" 
+                    HPOS="55"
+                    VPOS="126"
+                    WIDTH="445"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="57 200 55 163 90 155 117 128 117 127 117 127 118 127 118 127 118 127 120 127 120 127 121 127 158 127 158 127 158 127 160 127 160 127 160 127 161 127 161 127 186 148 225 162 285 162 329 127 329 127 330 127 330 127 330 127 331 127 331 127 331 127 396 126 397 126 397 126 399 126 399 126 399 126 400 126 400 126 400 127 430 157 455 157 465 147 465 146 465 146 466 146 466 146 466 146 467 146 467 146 469 146 469 146 469 146 470 146 470 146 470 146 496 161 500 197 497 211 451 205 445 210 445 211 445 211 444 211 444 211 444 211 442 211 442 211 442 212 395 212 394 211 394 211 392 211 392 211 392 211 391 211 391 211 391 210 381 201 361 201 330 212 330 212 330 212 329 212 329 212 329 213 287 213 286 212 286 212 286 212 285 212 285 212 285 212 264 202 236 202 220 212 218 212 218 212 218 212 217 212 217 212 216 212 216 212 216 212 215 212 215 212 215 212 213 212 213 212 202 202 190 208 190 208 190 208 188 208 188 208 187 208 187 208 187 208 148 202 57 213"/></Shape>
+	    <String CONTENT="Sacré-Coeur."
+                    HPOS="55"
+                    VPOS="126"
+                    WIDTH="445"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+        </TextBlock>
         
 
         

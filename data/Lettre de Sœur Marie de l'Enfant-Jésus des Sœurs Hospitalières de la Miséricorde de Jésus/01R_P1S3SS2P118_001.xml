@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2459" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2457" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT2456" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT3429" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2459" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2457" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT2456" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT866" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -76,7 +76,7 @@
                     WIDTH="714"
                     HEIGHT="90">
             <Shape><Polygon POINTS="153 453 151 415 196 413 196 412 227 386 227 385 227 385 228 385 228 385 230 385 230 385 230 385 231 385 231 385 280 390 346 383 346 383 347 383 347 383 349 383 349 383 349 383 350 383 350 383 362 393 376 386 376 386 376 386 377 386 377 386 377 386 379 386 379 386 380 386 417 396 434 385 435 385 435 385 435 385 436 385 436 385 466 382 467 382 467 382 467 382 469 382 469 382 470 382 470 382 470 383 480 392 515 392 515 392 515 392 516 392 516 392 516 392 517 392 532 402 546 411 565 411 584 401 601 391 601 391 601 391 602 391 602 391 602 391 604 391 604 391 605 391 605 391 605 391 606 391 606 391 606 392 614 400 624 410 681 410 690 401 690 401 691 401 691 401 691 401 693 401 693 401 693 401 694 401 694 401 695 401 714 406 730 396 743 387 744 387 744 387 744 387 745 387 745 387 746 387 746 387 746 387 748 387 770 395 779 397 789 393 814 385 814 385 815 385 815 385 816 385 816 385 863 392 865 447 865 456 818 467 818 467 818 468 728 468 726 467 726 467 725 467 725 467 700 458 695 457 681 458 620 467 620 467 619 467 619 467 572 460 560 458 555 460 535 470 535 470 535 470 534 470 534 470 534 471 496 471 495 470 495 470 494 470 494 470 494 470 492 470 492 470 482 461 477 458 461 461 409 471 409 471 409 471 407 471 407 471 406 471 374 462 360 460 342 463 295 472 295 472 295 472 293 472 293 472 292 472 292 472 292 472 291 472 277 463 271 461 250 461 245 465 236 472 236 472 235 472 235 472 235 472 233 472 233 472 233 472 232 472 232 472 231 472 231 472 231 472 215 465 206 461 153 465"/></Shape>
-	    <String CONTENT="M. Ulric Tessier, Auveat, L.L.B."
+	    <String CONTENT="M. Ulric Tessier, Avocat, L.L.B."
                     HPOS="151"
                     VPOS="382"
                     WIDTH="714"
@@ -256,30 +256,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="567"
+        <TextBlock HPOS="569"
                    VPOS="1399"
-                   WIDTH="310"
+                   WIDTH="308"
                    HEIGHT="82"
                    ID="eSc_textblock_9ce13bb6"
-                   TAGREFS="BT2459">
-          <Shape><Polygon POINTS="579 1406 567 1481 877 1456 872 1399"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_2755bd82"
-                    TAGREFS="LT866"
-                    BASELINE="581 1440 854 1426" 
-                    HPOS="579"
-                    VPOS="1400"
-                    WIDTH="277"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="581 1440 579 1420 670 1406 671 1406 673 1406 688 1412 704 1403 705 1403 706 1403 735 1410 755 1401 756 1401 758 1401 759 1401 774 1407 783 1400 784 1400 785 1400 786 1400 849 1406 854 1426 856 1482 805 1492 582 1496"/></Shape>
-	    <String CONTENT="Archives nationales du Québec"
-                    HPOS="579"
-                    VPOS="1400"
-                    WIDTH="277"
-                    HEIGHT="96"></String>
-          </TextLine>
-
+                   TAGREFS="BT3429">
+          <Shape><Polygon POINTS="579 1406 569 1481 877 1456 872 1399"/></Shape>
           
         </TextBlock>
         
