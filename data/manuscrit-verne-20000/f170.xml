@@ -11,8 +11,8 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1947" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT1946" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT1945" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1740" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1739" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1738" LABEL="IllustrationZone" DESCRIPTION="block type IllustrationZone"/><OtherTag ID="BT1737" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT586" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT589" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+    <OtherTag ID="BT2894" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1947" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT1946" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT1945" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1740" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1739" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1738" LABEL="IllustrationZone" DESCRIPTION="block type IllustrationZone"/><OtherTag ID="BT1737" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT589" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT586" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -682,8 +682,8 @@
                    WIDTH="557"
                    HEIGHT="119"
                    ID="eSc_textblock_86ce7418"
-                   TAGREFS="BT1947">
-          <Shape><Polygon POINTS="1058 3173 1058 3292 1615 3292 1615 3173"/></Shape>
+                   TAGREFS="BT2894">
+          <Shape><Polygon POINTS="1058 3173 1058 3292 1615 3285 1615 3173"/></Shape>
           
         </TextBlock>
         
