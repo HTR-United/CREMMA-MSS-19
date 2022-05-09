@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>img91.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2803" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2802" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2801" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT991" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1800"
+          HEIGHT="2742"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1800"
+                  HEIGHT="2742">
+        
+        <TextBlock HPOS="130"
+                   VPOS="100"
+                   WIDTH="105"
+                   HEIGHT="107"
+                   ID="eSc_textblock_cb7753a6"
+                   TAGREFS="BT2802">
+          <Shape><Polygon POINTS="208 207 130 193 137 100 217 109 235 162"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d7c5bf12"
+                    TAGREFS="LT991"
+                    BASELINE="144 172 146 172 168 168 217 168" 
+                    HPOS="137"
+                    VPOS="98"
+                    WIDTH="77"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="141 171 137 100 210 98 214 166 214 212 141 219"/></Shape>
+	    <String CONTENT="29"
+                    HPOS="137"
+                    VPOS="98"
+                    WIDTH="77"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="146"
+                   VPOS="1292"
+                   WIDTH="264"
+                   HEIGHT="129"
+                   ID="eSc_textblock_df767f14"
+                   TAGREFS="BT2803">
+          <Shape><Polygon POINTS="146 1292 146 1421 410 1421 410 1292"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a97985d7"
+                    TAGREFS="LT991"
+                    BASELINE="178 1334 400 1334" 
+                    HPOS="178"
+                    VPOS="1293"
+                    WIDTH="222"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="178 1334 178 1293 400 1300 400 1334 400 1348 178 1348"/></Shape>
+	    <String CONTENT="Service Historique"
+                    HPOS="178"
+                    VPOS="1293"
+                    WIDTH="222"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31cf8a5f"
+                    TAGREFS="LT991"
+                    BASELINE="160 1371 411 1371" 
+                    HPOS="157"
+                    VPOS="1334"
+                    WIDTH="254"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="160 1371 160 1334 411 1336 411 1371 409 1384 157 1377"/></Shape>
+	    <String CONTENT="de l&#39;Armée de Terre"
+                    HPOS="157"
+                    VPOS="1334"
+                    WIDTH="254"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce75f68d"
+                    TAGREFS="LT991"
+                    BASELINE="231 1398 343 1398" 
+                    HPOS="228"
+                    VPOS="1364"
+                    WIDTH="115"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="231 1398 231 1364 343 1364 343 1398 340 1428 228 1418"/></Shape>
+	    <String CONTENT="Archives"
+                    HPOS="228"
+                    VPOS="1364"
+                    WIDTH="115"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
