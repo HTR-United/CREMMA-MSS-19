@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2432" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT2431" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2411" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2410" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT3422" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2455" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT2454" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2432" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT2431" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2411" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2410" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT847" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT848" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
@@ -31,7 +31,7 @@
                    HEIGHT="798"
                    ID="eSc_textblock_c1f4b191"
                    TAGREFS="BT2410">
-          <Shape><Polygon POINTS="929 475 874 533 1099 565 1094 603 302 621 355 655 889 665 934 725 944 803 974 850 944 873 987 883 1021 912 910 908 905 880 912 872 909 863 155 853 135 778 135 650 136 613 120 428 119 114 898 121 918 367 1029 399 1018 460"/></Shape>
+          <Shape><Polygon POINTS="929 475 874 533 1099 565 1094 603 302 621 355 655 889 665 934 725 944 803 974 850 1002 867 1018 881 1021 912 910 908 905 880 896 874 909 863 155 853 135 778 135 650 136 613 120 428 119 114 898 121 918 367 1029 399 1018 460"/></Shape>
           
           
           <TextLine ID="eSc_line_db6a1931"
@@ -127,7 +127,7 @@
                     WIDTH="751"
                     HEIGHT="63">
             <Shape><Polygon POINTS="141 481 140 453 197 447 198 447 200 447 227 455 245 460 250 455 251 455 251 453 252 453 253 453 335 450 336 450 390 458 416 462 420 458 427 453 429 453 430 453 462 452 464 452 465 452 466 452 466 453 474 460 477 463 487 461 514 453 515 453 516 453 517 453 534 461 541 466 666 467 683 465 704 461 705 461 706 461 720 466 725 467 728 466 734 460 734 458 735 458 736 458 738 458 739 458 768 466 798 457 799 457 800 457 801 457 803 457 815 467 816 468 819 467 823 463 824 463 825 463 826 463 828 463 829 463 835 468 839 470 890 470 891 493 890 501 784 510 783 510 781 510 756 502 736 508 735 508 734 508 733 508 731 508 731 507 725 502 516 506 515 506 481 505 480 505 479 505 479 503 471 497 462 503 461 503 460 503 459 503 422 501 421 501 420 501 414 496 409 492 272 491 255 495 221 501 220 501 218 501 197 493 186 490 141 492"/></Shape>
-	    <String CONTENT="Pour vos cils attristés : -(si pur que soit le jour"
+	    <String CONTENT="Sous vos cils attristés : -(si pur que soit le jour"
                     HPOS="140"
                     VPOS="447"
                     WIDTH="751"
@@ -240,17 +240,17 @@
           
           <TextLine ID="eSc_line_43f6b2f7"
                     TAGREFS="LT847"
-                    BASELINE="911 902 1002 905" 
-                    HPOS="908"
+                    BASELINE="911 902 1016 905" 
+                    HPOS="909"
                     VPOS="868"
-                    WIDTH="92"
-                    HEIGHT="53">
-            <Shape><Polygon POINTS="910 901 909 871 958 868 959 868 960 868 962 868 977 881 980 883 1000 885 1000 905 997 921 967 911 944 920 943 920 942 920 940 920 908 917"/></Shape>
+                    WIDTH="106"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1014 882 989 882 988 880 977 870 977 868 975 868 974 868 973 868 910 870 910 901 909 916 979 912 1012 920 1015 905 1015 885 1014 882"/></Shape>
 	    <String CONTENT="J.O.B...."
-                    HPOS="908"
+                    HPOS="909"
                     VPOS="868"
-                    WIDTH="92"
-                    HEIGHT="53"></String>
+                    WIDTH="106"
+                    HEIGHT="52"></String>
           </TextLine>
 
           

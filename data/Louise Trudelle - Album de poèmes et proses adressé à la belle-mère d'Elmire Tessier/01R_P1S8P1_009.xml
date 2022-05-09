@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2455" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT2454" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2432" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT2431" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2411" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2410" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT3422" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2455" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT2454" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2432" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT2431" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2411" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2410" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT847" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT848" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
@@ -24,33 +24,6 @@
                   VPOS="0"
                   WIDTH="1246"
                   HEIGHT="1500">
-        
-        <TextBlock HPOS="100"
-                   VPOS="40"
-                   WIDTH="208"
-                   HEIGHT="30"
-                   ID="eSc_textblock_7e32f35d"
-                   TAGREFS="BT2431">
-          <Shape><Polygon POINTS="100 70 110 45 150 40 303 40 308 58"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_29ca2980"
-                    TAGREFS="LT847"
-                    BASELINE="102 70 305 55" 
-                    HPOS="98"
-                    VPOS="26"
-                    WIDTH="207"
-                    HEIGHT="54">
-            <Shape><Polygon POINTS="102 70 98 50 163 46 178 40 196 33 197 33 198 33 212 36 231 40 242 32 246 30 247 30 248 30 250 30 256 31 273 35 300 26 305 55 305 76 102 80"/></Shape>
-	    <String CONTENT="Archives nationales du Québec"
-                    HPOS="98"
-                    VPOS="26"
-                    WIDTH="207"
-                    HEIGHT="54"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
         <TextBlock HPOS="115"
                    VPOS="135"
@@ -331,6 +304,16 @@
                     HEIGHT="74"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="95"
+                   VPOS="30"
+                   WIDTH="221"
+                   HEIGHT="63"
+                   ID="eSc_textblock_7e32f35d"
+                   TAGREFS="BT3422">
+          <Shape><Polygon POINTS="96 93 95 45 164 32 309 30 316 66"/></Shape>
           
         </TextBlock>
         

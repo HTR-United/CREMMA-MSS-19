@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2455" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT2454" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2432" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT2431" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2411" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2410" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT3422" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2455" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT2454" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2432" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT2431" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2411" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2410" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT847" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT848" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
@@ -302,6 +302,33 @@
                     VPOS="1057"
                     WIDTH="596"
                     HEIGHT="66"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="844"
+                   VPOS="1150"
+                   WIDTH="158"
+                   HEIGHT="68"
+                   ID="eSc_textblock_b095d8fe"
+                   >
+          <Shape><Polygon POINTS="849 1218 844 1165 869 1150 982 1155 1002 1213"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4914d98e"
+                    TAGREFS="LT847"
+                    BASELINE="847 1207 995 1212" 
+                    HPOS="844"
+                    VPOS="1150"
+                    WIDTH="151"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="846 1206 844 1166 880 1150 880 1150 881 1150 881 1150 881 1150 882 1150 900 1151 900 1151 901 1151 901 1151 901 1151 902 1151 902 1151 902 1152 917 1166 937 1155 939 1155 939 1155 940 1155 940 1155 940 1155 941 1155 941 1155 942 1155 995 1171 994 1211 992 1221 921 1228 921 1228 920 1228 920 1228 844 1215"/></Shape>
+	    <String CONTENT="O.A.C"
+                    HPOS="844"
+                    VPOS="1150"
+                    WIDTH="151"
+                    HEIGHT="78"></String>
           </TextLine>
 
           
