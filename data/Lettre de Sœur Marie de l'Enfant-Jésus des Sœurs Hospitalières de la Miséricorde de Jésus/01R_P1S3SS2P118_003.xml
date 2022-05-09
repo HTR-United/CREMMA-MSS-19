@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3429" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2459" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2457" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT2456" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT3433" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3429" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2459" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2456" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT866" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   

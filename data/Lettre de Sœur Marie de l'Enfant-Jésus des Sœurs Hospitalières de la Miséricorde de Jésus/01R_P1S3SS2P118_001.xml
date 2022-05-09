@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3429" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2459" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2457" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT2456" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT3433" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3429" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2459" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT2456" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT866" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -30,7 +30,7 @@
                    WIDTH="871"
                    HEIGHT="1262"
                    ID="eSc_textblock_26fe7c4e"
-                   TAGREFS="BT2457">
+                   TAGREFS="BT2456">
           <Shape><Polygon POINTS="797 339 763 380 881 400 881 448 821 537 901 806 954 964 959 980 942 1188 953 1384 88 1405 107 835 344 768 372 704 112 706 140 576 464 608 562 473 205 473 145 458 150 415 200 385 512 375 544 358 527 328 494 318 502 276 477 253 245 260 260 180 295 143 931 170 951 180 956 233 916 313"/></Shape>
           
           
@@ -253,6 +253,16 @@
                     HEIGHT="85"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="76"
+                   VPOS="96"
+                   WIDTH="176"
+                   HEIGHT="208"
+                   ID="eSc_textblock_64cf25a0"
+                   TAGREFS="BT3433">
+          <Shape><Polygon POINTS="79 161 77 193 76 229 90 263 109 277 121 291 137 296 160 304 188 302 213 287 228 268 242 253 246 228 252 205 246 161 234 129 218 111 188 99 156 96 127 100 103 119 90 137"/></Shape>
           
         </TextBlock>
         
