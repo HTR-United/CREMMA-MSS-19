@@ -36,17 +36,17 @@
           
           <TextLine ID="eSc_line_61e1d9ea"
                     TAGREFS="LT991"
-                    BASELINE="265 211 328 222" 
-                    HPOS="260"
-                    VPOS="126"
-                    WIDTH="79"
-                    HEIGHT="100">
-            <Shape><Polygon POINTS="264 210 268 140 301 126 301 126 303 126 303 126 305 126 305 126 305 126 307 126 307 126 309 126 309 126 339 148 327 220 327 224 260 226"/></Shape>
+                    BASELINE="225 195 341 195" 
+                    HPOS="224"
+                    VPOS="140"
+                    WIDTH="115"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="331 156 250 140 248 140 246 140 244 140 224 152 224 194 224 224 339 220 339 194 337 190 331 156"/></Shape>
 	    <String CONTENT="43"
-                    HPOS="260"
-                    VPOS="126"
-                    WIDTH="79"
-                    HEIGHT="100"></String>
+                    HPOS="224"
+                    VPOS="140"
+                    WIDTH="115"
+                    HEIGHT="84"></String>
           </TextLine>
 
           
