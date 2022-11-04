@@ -13,6 +13,26 @@ authors:
   roles:
   - project-manager
   - quality-control
+- name: Davoury
+  surname: Baudouin
+  roles:
+  - transcriber
+  - aligner
+- name: Doat
+  surname: Soline
+  roles:
+  - transcriber
+  - aligner
+- name: Faure
+  surname: Margaux
+  roles:
+  - transcriber
+  - aligner
+- name: Humeau
+  surname: Maxime
+  roles:
+  - transcriber
+  - aligner
 description: Manuscripts of the 19th century
 language:
 - fra
